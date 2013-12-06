@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/meertens_skos/!svn/ver/5/scripts
+END
+convert2skos.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/meertens_skos/!svn/ver/7/scripts/convert2skos.pl
+END
+skos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/meertens_skos/!svn/ver/7/scripts/skos.xml
+END
